@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.example.com/</link>
+    <link>https://kaynatsajid.github.io/OS/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Apr 2021 23:21:34 +0500</lastBuildDate><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 23:21:34 +0500</lastBuildDate><atom:link href="https://kaynatsajid.github.io/OS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project decription</title>
-      <link>https://www.example.com/posts/projectdecription/</link>
+      <link>https://kaynatsajid.github.io/OS/posts/projectdecription/</link>
       <pubDate>Tue, 20 Apr 2021 23:21:34 +0500</pubDate>
       
-      <guid>https://www.example.com/posts/projectdecription/</guid>
+      <guid>https://kaynatsajid.github.io/OS/posts/projectdecription/</guid>
       <description>Softwares:  Visual Studio Code Docker Qemu  Description: print.h This header files contains our defined functions.
 print.c It gives the implementation of print.h file. We print SEECS logo using aasterics.
 main.c Main function which calls all the other functions for printing the required text or pattern on the screen.
